@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Muhammed Yusuf KURT
+Software Developer
+I've started learning programming with C#, .NET. I continue to develop myself as a .Net Developer.
 
+🌍 I'm based in Istanbul/Kocaeli
+✉️ You can contact me at myk361@hotmail.com
+🧠 I'm learning Asp.Net Core, C#, RestAPI,JavaScript
+
+C# JavaScript HTML5 React CSS3 .NET Figma
 <!--
 **MuhammedyusufKurt61/MuhammedyusufKurt61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
